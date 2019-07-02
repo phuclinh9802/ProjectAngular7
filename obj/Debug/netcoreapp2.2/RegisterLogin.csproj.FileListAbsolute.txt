@@ -1,0 +1,16 @@
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.csprojAssemblyReference.cache
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.csproj.CoreCompileInputs.cache
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.RazorAssemblyInfo.cache
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.RazorAssemblyInfo.cs
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.AssemblyInfoInputs.cache
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.AssemblyInfo.cs
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/bin/Debug/netcoreapp2.2/RegisterLogin.deps.json
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/bin/Debug/netcoreapp2.2/RegisterLogin.runtimeconfig.json
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/bin/Debug/netcoreapp2.2/RegisterLogin.runtimeconfig.dev.json
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/bin/Debug/netcoreapp2.2/RegisterLogin.dll
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/bin/Debug/netcoreapp2.2/RegisterLogin.pdb
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/bin/Debug/netcoreapp2.2/RegisterLogin.Views.dll
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.RazorTargetAssemblyInfo.cache
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.dll
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.pdb
+/Users/phucnguyen/Desktop/Registration_Login_2/RegisterLogin/RegisterLogin/obj/Debug/netcoreapp2.2/RegisterLogin.csproj.CopyComplete

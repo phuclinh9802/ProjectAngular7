@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{46C29FF9-29E9-4D5F-9D2C-18B7BCFE6108}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20190630191420_SchoolMigration.cs">
+    <Files>
+      <File FileName="Models/Model.cs" Line="79" Column="9" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Controllers/RegisterController.cs" />
+      <File FileName="Controllers/ProfileController.cs" />
+      <File FileName="Controllers/GetController.cs" />
+      <File FileName="Controllers/ClassController.cs" />
+      <File FileName="Controllers/StudentController.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Migrations/20190630191420_SchoolMigration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegisterLogin" expanded="True">
+            <Node name="RegisterLogin" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20190630191420_SchoolMigration.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Class" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RegisterLogin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
